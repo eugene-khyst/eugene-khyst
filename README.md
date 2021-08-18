@@ -41,6 +41,26 @@ I went from a software engineer to a tech lead, to a solutions architect, to a V
 ![Kanban](https://img.shields.io/badge/Kanban-71a8cf?style=for-the-badge)
 ![Lean](https://img.shields.io/badge/Lean-f1f1f1?style=for-the-badge)
 
+## Notable repositories
+
+### Event Sourcing and CQRS trilogy
+
+[![Event Sourcing with PostgreSQL repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=postgresql-event-sourcing&cache_seconds=86400)](https://github.com/evgeniy-khist/postgresql-event-sourcing)
+[![Event Sourcing with EventStoreDB repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=eventstoredb-event-sourcing&cache_seconds=86400)](https://github.com/evgeniy-khist/eventstoredb-event-sourcing)
+[![Event Sourcing with Kafka and ksqlDB repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=ksqldb-event-souring&cache_seconds=86400)](https://github.com/evgeniy-khist/ksqldb-event-souring)
+
+### Spring Kafka Non-Blocking Retries and Dead Letter Topics
+
+[![Spring Kafka Non-Blocking Retries and Dead Letter Topics repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=spring-kafka-non-blocking-retries-and-dlt&cache_seconds=86400)](https://github.com/evgeniy-khist/spring-kafka-non-blocking-retries-and-dlt)
+
+### Nginx and Let’s Encrypt with Docker Compose in less than 3 minutes
+
+[![Nginx and Let’s Encrypt with Docker Compose in less than 3 minutes repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=letsencrypt-docker-compose&cache_seconds=86400)](https://github.com/evgeniy-khist/letsencrypt-docker-compose)
+
+### Markdown Table of Contents CLI Generator
+
+[![Markdown Table of Contents CLI Generator repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=markdown-toc&cache_seconds=86400)](https://github.com/evgeniy-khist/markdown-toc)
+
 <!--
 **evgeniy-khist/evgeniy-khist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
