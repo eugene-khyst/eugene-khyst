@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Evgeniy Khyst. I am a Software Architect and Engineering Manager. I design robust software solutions, build engineering teams and establish engineering culture based on my knowledge of the patterns and anti-patterns of effective software development gained by working both in dysfunctional teams and in highly functional teams. I have experience of improving an employer brand to boost hiring of IT specialists and scaling teams to grow effective organizations.
+My name is Evgeniy Khyst. I am a Software Architect and Engineering Manager. I design robust software solutions, build engineering teams and establish engineering culture based on my knowledge of the patterns and anti-patterns of effective software development gained by working both in dysfunctional teams and in highly functional teams. 
+
+I have experience of improving an employer brand to boost hiring of IT specialists and scaling teams to grow effective organizations.
 
 I went from a software engineer to a tech lead, to a solutions architect, to a VP of engineering running a department of 60+ people.
 
