@@ -9,10 +9,10 @@ I design robust software solutions, build engineering teams and establish an eng
 [![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/evgeniykhyst/)
 [![ProtonMail email](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:evgeniy.khyst@protonmail.com)
 
-[![GitHub followers](https://img.shields.io/github/followers/evgeniy-khist?color=333&logo=github&logoColor=white&style=for-the-badge&cacheSeconds=86400)](https://github.com/evgeniy-khist/)
-[![GitHub User's stars](https://img.shields.io/github/stars/evgeniy-khist?affiliations=OWNER%2CCOLLABORATOR&color=333&logo=github&logoColor=white&style=for-the-badge&cacheSeconds=86400)](https://github.com/evgeniy-khist/)
+[![GitHub followers](https://img.shields.io/github/followers/evgeniy-khist?color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/evgeniy-khist/)
+[![GitHub User's stars](https://img.shields.io/github/stars/evgeniy-khist?affiliations=OWNER%2CCOLLABORATOR&color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/evgeniy-khist/)
 
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7873775?color=FE7A16&logo=stack-overflow&style=for-the-badge&cacheSeconds=86400)](https://stackoverflow.com/users/7873775/evgeniy-khyst)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7873775?color=FE7A16&logo=stack-overflow&style=for-the-badge)](https://stackoverflow.com/users/7873775/evgeniy-khyst)
 
 #### Favorite tech stack
 
@@ -51,21 +51,21 @@ I design robust software solutions, build engineering teams and establish an eng
 
 ### Event Sourcing and CQRS trilogy
 
-[![Event Sourcing with PostgreSQL repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=postgresql-event-sourcing&cache_seconds=86400)](https://github.com/evgeniy-khist/postgresql-event-sourcing)
-[![Event Sourcing with EventStoreDB repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=eventstoredb-event-sourcing&cache_seconds=86400)](https://github.com/evgeniy-khist/eventstoredb-event-sourcing)
-[![Event Sourcing with Kafka and ksqlDB repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=ksqldb-event-souring&cache_seconds=86400)](https://github.com/evgeniy-khist/ksqldb-event-souring)
+[![Event Sourcing with PostgreSQL repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=postgresql-event-sourcing)](https://github.com/evgeniy-khist/postgresql-event-sourcing)
+[![Event Sourcing with EventStoreDB repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=eventstoredb-event-sourcing)](https://github.com/evgeniy-khist/eventstoredb-event-sourcing)
+[![Event Sourcing with Kafka and ksqlDB repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=ksqldb-event-souring)](https://github.com/evgeniy-khist/ksqldb-event-souring)
 
 ### Spring Kafka Non-Blocking Retries and Dead Letter Topics
 
-[![Spring Kafka Non-Blocking Retries and Dead Letter Topics repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=spring-kafka-non-blocking-retries-and-dlt&cache_seconds=86400)](https://github.com/evgeniy-khist/spring-kafka-non-blocking-retries-and-dlt)
+[![Spring Kafka Non-Blocking Retries and Dead Letter Topics repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=spring-kafka-non-blocking-retries-and-dlt)](https://github.com/evgeniy-khist/spring-kafka-non-blocking-retries-and-dlt)
 
 ### Nginx and Let’s Encrypt with Docker Compose in less than 3 minutes
 
-[![Nginx and Let’s Encrypt with Docker Compose in less than 3 minutes repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=letsencrypt-docker-compose&cache_seconds=86400)](https://github.com/evgeniy-khist/letsencrypt-docker-compose)
+[![Nginx and Let’s Encrypt with Docker Compose in less than 3 minutes repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=letsencrypt-docker-compose)](https://github.com/evgeniy-khist/letsencrypt-docker-compose)
 
 ### Markdown Table of Contents CLI Generator
 
-[![Markdown Table of Contents CLI Generator repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=markdown-toc&cache_seconds=86400)](https://github.com/evgeniy-khist/markdown-toc)
+[![Markdown Table of Contents CLI Generator repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=markdown-toc)](https://github.com/evgeniy-khist/markdown-toc)
 
 <!--
 **evgeniy-khist/evgeniy-khist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
