@@ -67,6 +67,10 @@ I design robust software solutions, build engineering teams and establish an eng
 
 [![Markdown Table of Contents CLI Generator repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=markdown-toc)](https://github.com/evgeniy-khist/markdown-toc)
 
+### Testcontainers with Podman
+
+[![Testcontainers with Podman repo](https://github-readme-stats.vercel.app/api/pin/?username=evgeniy-khist&repo=podman-testcontainers)](https://github.com/evgeniy-khist/podman-testcontainers)
+
 <!--
 **evgeniy-khist/evgeniy-khist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
