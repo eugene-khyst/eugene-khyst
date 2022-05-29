@@ -10,7 +10,8 @@ I design robust software solutions, build engineering teams and establish an eng
 [![ProtonMail email](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:evgeniy.khyst@protonmail.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/evgeniy-khist?color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/evgeniy-khist/)
-[![GitHub User's stars](https://img.shields.io/github/stars/evgeniy-khist?affiliations=OWNER%2CCOLLABORATOR&color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/evgeniy-khist/)
+[![GitHub user's stars](https://img.shields.io/github/stars/evgeniy-khist?affiliations=OWNER%2CCOLLABORATOR&color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/evgeniy-khist/)
+[![GitHub profile views](https://komarev.com/ghpvc/?username=evgeniy-khist&color=333333&style=for-the-badge)](https://github.com/evgeniy-khist/)
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7873775?color=FE7A16&logo=stack-overflow&style=for-the-badge)](https://stackoverflow.com/users/7873775/evgeniy-khyst)
 
