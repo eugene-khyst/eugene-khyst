@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Evgeniy Khyst. I am a Software Architect and Engineering Manager.
+My name is Eugene Khyst. I am a Software Architect and Engineering Manager.
 
 My path: Software Engineer -> Tech Lead -> Solutions Architect -> VP of engineering running a department of 60+ people.
 
