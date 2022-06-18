@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is Evgeniy Khyst. I am an Engineering Manager and Software Architect.
+My name is Evgeniy Khyst. I am a Software Architect and Engineering Manager.
 
 My path: Software Engineer -> Tech Lead -> Solutions Architect -> VP of engineering running a department of 60+ people.
 
 I design robust software solutions, build engineering teams and establish an engineering culture. I have experience in improving an employer brand to boost the hiring of IT specialists and scaling teams to grow effective organizations.
 
 [![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/evgeniykhyst/)
-[![ProtonMail email](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:evgeniy.khyst@protonmail.com)
+[![GMail email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:evgeniy.khyst@gmail.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/evgeniy-khist?color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/evgeniy-khist/)
 [![GitHub user's stars](https://img.shields.io/github/stars/evgeniy-khist?affiliations=OWNER%2CCOLLABORATOR&color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/evgeniy-khist/)
