@@ -6,15 +6,15 @@ My name is Eugene Khyst. I'm a Software Architect and Expert Software Engineer.
 
 [![GitHub followers](https://img.shields.io/github/followers/evgeniy-khist?color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/evgeniy-khist/)
 [![GitHub user's stars](https://img.shields.io/github/stars/evgeniy-khist?affiliations=OWNER%2CCOLLABORATOR&color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/evgeniy-khist/)
-[![GitHub profile views](https://komarev.com/ghpvc/?username=evgeniy-khist&color=333333&style=for-the-badge)](https://github.com/evgeniy-khist/)
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7873775?color=FE7A16&logo=stack-overflow&style=for-the-badge)](https://stackoverflow.com/users/7873775/evgeniy-khyst)
 
 #### Favorite tech stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -33,9 +33,8 @@ My name is Eugene Khyst. I'm a Software Architect and Expert Software Engineer.
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange)
 
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-ea5906?style=for-the-badge&logo=webdriverio&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-343838?style=for-the-badge)
-![k6](https://img.shields.io/badge/k6-7d64ff?style=for-the-badge)
+![TestCafe](https://img.shields.io/badge/TestCafe-1a202e?style=for-the-badge&logo=testcafe&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7d64ff?style=for-the-badge&logo=k6&logoColor=white)
 
 #### Favorite methodologies
 
