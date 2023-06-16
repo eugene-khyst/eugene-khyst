@@ -2,6 +2,7 @@
 
 My name is Eugene Khyst. I'm a Software Architect and Expert Software Engineer.
 
+[![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/evgeniykhyst/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:evgeniy.khyst@gmail.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/evgeniy-khist?color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/evgeniy-khist/)
