@@ -3,7 +3,7 @@
 My name is Eugene Khyst. I'm a Software Architect and Expert Software Engineer.
 
 [![GitHub followers](https://img.shields.io/github/followers/eugene-khyst?color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eugene-khyst/)
-[![GitHub user's stars](https://img.shields.io/github/stars/eugene-khyst?affiliations=OWNER%2CCOLLABORATOR&color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/evgeniy-khist/)
+[![GitHub user's stars](https://img.shields.io/github/stars/eugene-khyst?affiliations=OWNER%2CCOLLABORATOR&color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eugene-khyst/)
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7873775?color=FE7A16&logo=stack-overflow&style=for-the-badge)](https://stackoverflow.com/users/7873775/eugene-khyst)
 
