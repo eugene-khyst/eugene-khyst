@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Eugene Khyst. I'm a Software Architect and Expert Software Engineer.
+My name is Eugene Khyst. I'm an expert software engineer and software architect.
 
 [![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/eugene-khyst/)
 
