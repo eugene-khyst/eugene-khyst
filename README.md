@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Eugene Khyst. I am a Principal Software Engineer and Software Architect.
+My name is Eugene Khyst. I am a Principal Software Engineer and Software Architect and creator of ArtistAssistApp.com - the best free painting assistant tool 🎨🖌️
 
 [![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/eugene-khyst/)
 
