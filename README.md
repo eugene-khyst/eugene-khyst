@@ -2,6 +2,8 @@
 
 My name is Eugene Khyst. I am a Principal Software Engineer and Software Architect.
 
+Creator of [ArtistAssistApp](https://artistassistapp.com) - the best painting and drawing assistant app 🎨🖌️
+
 [![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/eugene-khyst/)
 
 [![GitHub followers](https://img.shields.io/github/followers/eugene-khyst?color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eugene-khyst/)
@@ -22,6 +24,7 @@ My name is Eugene Khyst. I am a Principal Software Engineer and Software Archite
 ![Ant Design](https://img.shields.io/badge/Ant_Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-F2F4F9?style=for-the-badge&logo=nextdotjs&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -32,8 +35,8 @@ My name is Eugene Khyst. I am a Principal Software Engineer and Software Archite
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)
 
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![TestCafe](https://img.shields.io/badge/TestCafe-1a202e?style=for-the-badge&logo=testcafe&logoColor=white)
